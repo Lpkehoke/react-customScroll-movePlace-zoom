@@ -1,0 +1,12 @@
+{
+  "name": "react-customScroll-movePlace-zoom",
+  "version": "0.0.1",
+  "description": "react custom scroll move place zoom",
+  "main": "index.jsx",
+  "repository": "https://github.com/Lpkehoke/react-customScroll-movePlace-zoom.git",
+  "author": "lokeHoke <ibymif2000@yandex.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.5.1"
+  }
+}
